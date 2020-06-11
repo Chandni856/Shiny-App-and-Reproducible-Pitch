@@ -1,7 +1,7 @@
 library(shiny)
 library(ggplot2)
 
-# Define server logic required to generate and plot a random distribution
+# Define server logic required to generate and plot  random distribution
 shinyServer(function(input, output) {
   
   # Expression that generates a plot of the distribution. The expression
