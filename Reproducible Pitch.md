@@ -1,7 +1,6 @@
 ---
 title: "ShinyApp Pitch for Basic Introduction to ggplot2"
-author: "Suresh Babu kumpati"
-date: "May 8, 2016"
+date: "june 11, 2020"
 output: html_document
 transition: rotate
 incremental: true
