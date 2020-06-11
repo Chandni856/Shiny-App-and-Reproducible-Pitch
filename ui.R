@@ -1,7 +1,7 @@
 library(shiny)
 library(ggplot2)
 
-# Define UI for application that plots random distributions 
+# Define UI for application that plots the random distributions 
 shinyUI(pageWithSidebar(
   
   # Application title
